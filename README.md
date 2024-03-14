@@ -11,9 +11,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning in Java, DQL and Python
-- 🤔 I’m looking for help with SQL and Python
-- 📫 How to reach me: gustianmajs@gmail.com
+- 🌱 I’m currently learning in Python, SQL, and Database
+- 🤔 I’m looking for help with Python, SQL, and Database
+- 📫 Plese hesitate to reach me at: gustianmajs@gmail.com
 - ⚡ Fun fact: Actually I love graphic design, shhh! it's a secret between us
 
 <!--
